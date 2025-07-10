@@ -21,7 +21,6 @@ It demonstrates:
 │ └── workflows/
 │ └── playwright.yml # CI workflow
 
-
 ---
 
 ## 🚀 How to run tests locally
@@ -29,3 +28,22 @@ It demonstrates:
 1️⃣ Install dependencies:
 ```bash
 npm install
+
+---
+
+## 📌 Author
+
+**Mark Ashley dela Rosa**
+*Software QA who loves breaking things gently.*
+
+---
+
+## 🗝️ Notes
+
+For practice, this uses the public [SauceDemo](https://www.saucedemo.com) sample site — no credentials or private data are committed.
+
+---
+
+## ✅ License
+
+This project is open for learning and portfolio purposes.
