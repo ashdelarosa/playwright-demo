@@ -1,6 +1,6 @@
 # Playwright E2E Tests for SauceDemo
 
-[![Playwright Tests](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/playwright.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/ashdelarosa/playwright-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/ashdelarosa/playwright-demo/actions/workflows/playwright.yml)
 
 This project is a simple end-to-end (E2E) test suite for [SauceDemo](https://www.saucedemo.com), created with [Playwright](https://playwright.dev).
 
