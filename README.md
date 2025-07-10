@@ -28,6 +28,7 @@ It demonstrates:
 1️⃣ Install dependencies:
 ```bash
 npm install
+```
 
 ---
 
